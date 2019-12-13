@@ -1,0 +1,28 @@
+{
+  "name": "mamun",
+  "version": "1.0.0",
+  "description": "Faltu Application for Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jytsahoo/mywork.git"
+  },
+  "keywords": [
+    "Mamun",
+    "Jyostna",
+    "Demo",
+    "Example"
+  ],
+  "author": "Jyotshnarani Sahoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jytsahoo/mywork/issues"
+  },
+  "homepage": "https://github.com/jytsahoo/mywork#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
